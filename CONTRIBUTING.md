@@ -47,3 +47,4 @@ Tem uma ideia de nova funcionalidade? Abra uma **Issue** com a tag `enhancement`
 *   O foco é criar uma ferramenta útil para todos os técnicos.
 
 Obrigado por ajudar a tornar o Ferramenta de Suporte melhor! 🚀
+By George Filho

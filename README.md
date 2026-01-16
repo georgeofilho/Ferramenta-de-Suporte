@@ -93,3 +93,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir Issues ou enviar
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+By George Filho
