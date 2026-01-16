@@ -1,4 +1,4 @@
-# 🛠️ Ferramenta de Suporte - Ferramenta de Suporte Técnico (v2.0)
+# 🛠️ Ferramenta de Suporte Técnico (v2.0)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)
